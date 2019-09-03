@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\target\\classes",
+    "\\bin\\target\\classes\\META-INF",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\tecsup",
+    "\\src\\main\\java\\com\\tecsup\\lab01",
+    "\\src\\main\\java\\com\\tecsup\\lab01\\controller",
+    "\\src\\main\\java\\com\\tecsup\\lab01\\model",
+    "\\src\\main\\java\\com\\tecsup\\lab01\\view"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\tecsup\\lab01\\view\\Userview.java",
+  "PreviewInSolutionExplorer": false
+}
